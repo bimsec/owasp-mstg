@@ -174,7 +174,7 @@ For more information on algorithm choice and best practices, see the following r
 
 ## Cryptography Reuse (MSTG-CRYPTO-5)
 
-Male sure that cryptographic means are not mixed with each other: e.g. you do not sign with a public key, or try to reuse a keypair used for a signature to do encryption.
+Make sure that cryptographic means are not mixed with each other: e.g. you do not sign with a public key, or try to reuse a keypair used for a signature to do encryption.
 
 ## Weak Random Number Generators (MSTG-CRYPTO-6)
 
